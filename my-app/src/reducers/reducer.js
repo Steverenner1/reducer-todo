@@ -1,6 +1,6 @@
 
 
-export const toDo = [
+export const todo = [
     {
         item: 'Learn about reducers',
         completed: false,
